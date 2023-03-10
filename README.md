@@ -1,7 +1,5 @@
 # Helzby Restaurant Menu Digitization
 
-![Helzby screenshot](https://github.com/Intechnity-com/Helzby/blob/main/screenshot.png?raw=true)
-
 This is the Github repository for the Helzby Restaurant Menu Digitization project.
 Our goal is to make it easy for restaurant customers to access and order using their own mobile phones. Customers can simply scan the QR code located at the entrance, on the table, or at the bar to instantly access the restaurant's menu, select their favorite dish, and conveniently pay for their order using various mobile payment options. Customers can also receive notifications about the status of their order, so they can stay informed and up-to-date.
 
@@ -25,3 +23,6 @@ Thank you for choosing Helzby!
 
 
 [intechnity.com](https://www.intechnity.com)
+
+
+![Helzby screenshot](https://github.com/Intechnity-com/Helzby/blob/main/screenshot.png?raw=true)
